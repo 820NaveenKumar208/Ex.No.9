@@ -56,7 +56,12 @@ A man walking through a forest during sunset is a journey into serenity and wond
 
 ## Video :
 
-https://github.com/user-attachments/assets/fbaed7f0-ed59-4867-a2af-af27e877ed50
+
+
+https://github.com/user-attachments/assets/1b5eabbb-ca8a-4140-9efe-982f66eaeb62
+
+
+
 This prompt was used  hailuoai.vide and Make-A-Video to observe basic animation, environment understanding, and subject motion.
 # Prompt :
 ## 2.Create a Detailed Prompt:
@@ -67,6 +72,7 @@ Create an illustration of the man standing boldly against the spaceship firing m
 ## Video :
 
 https://github.com/user-attachments/assets/5ef6da51-47b8-4052-8b1f-b146cf710030
+
 
 This prompt was run in Imagen Video and Make-A-Video to assess how well the model handles detailed instructions and renders natural scenery with realistic motion.
 
