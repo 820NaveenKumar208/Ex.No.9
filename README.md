@@ -49,5 +49,13 @@ Tools/LLMs for Video Generation:
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
 
+# Prompt :
+A man walking through a forest during sunset is a journey into serenity and wonder. The golden light filters through the trees, casting long shadows and painting the world in hues of amber and crimson. Every step crunches softly on the forest floor, blending with the distant calls of birds settling in for the night.
+# Video :
+
+
+https://github.com/user-attachments/assets/fbaed7f0-ed59-4867-a2af-af27e877ed50
+
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
